@@ -1,6 +1,7 @@
 # Hey, Friends!
 
 👋 Hi there! I'm Angel Ramirez. I'm Passionate about open-source and cloud-native technologies, I've dedicated my career to fostering innovation and collaboration. As a CNCF Ambassador and the Founder of La Fundacion Hispana de Cloud Native (FHCN), I'm on a mission to empower Spanish-speaking communities with the latest tools for personal and professional growth.
+<br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ar4mirez&show_icons=true&theme=transparent" />
 </a>
