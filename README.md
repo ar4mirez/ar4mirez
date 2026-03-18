@@ -26,7 +26,7 @@ I'm a technology leader and entrepreneur at the intersection of **technical exce
 - 🌐 **CNCF Ambassador** & **TODO OSPO Ambassador** — building cloud-native communities across Latin America
 - 🏆 **Kubestronaut** — one of ~1,500 globally (CKA + CKAD + CKS + KCNA + KCSA)
 - 🎤 **International Speaker** — KubeCon, KCD Texas, KCD El Salvador, and more
-- 🌱 Founder of [Cloud Native Latin America](https://community.cncf.io/cloud-native-latin-america/) & [Fundación Hispana de Cloud Native](https://www.cuemby.com/fhcn/cnhf)
+- 🌱 Founder of [Cloud Native Latin America](https://community.cncf.io/cloud-native-latin-america/) & [Fundación Hispana de Cloud Native](https://community.cncf.io/cloud-native-latin-america/)
 - 📍 Delray Beach, Florida
 
 ---
@@ -36,9 +36,9 @@ I'm a technology leader and entrepreneur at the intersection of **technical exce
 <div align="center">
 
 [![CKA](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/users/ar4mirez/badges)
-[![CKAD](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](https://www.credly.com/users/ar4mirez/badges)
+[![CKAD](https://images.credly.com/size/110x110/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](https://www.credly.com/users/ar4mirez/badges)
 [![CKS](https://images.credly.com/size/110x110/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png)](https://www.credly.com/users/ar4mirez/badges)
-[![KCNA](https://images.credly.com/size/110x110/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_from_cncfsite.png)](https://www.credly.com/users/ar4mirez/badges)
+[![KCNA](https://img.shields.io/badge/KCNA-Certified-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://www.credly.com/users/ar4mirez/badges)
 [![Kubestronaut](https://images.credly.com/size/110x110/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png)](https://www.credly.com/users/ar4mirez/badges)
 
 *[View all badges on Credly →](https://www.credly.com/users/ar4mirez/badges)*
@@ -113,7 +113,7 @@ I speak about **Platform Engineering**, **Kubernetes**, **Cloud Native adoption*
 
 - 🦙 **[Cloud Native Latin America](https://community.cncf.io/cloud-native-latin-america/)** — CNCF community group for LATAM
 - 🇸🇻 **[KCD El Salvador](https://community.cncf.io/events/details/cncf-kcd-el-salvador-presents-kcd-el-salvador-2023/)** — helped launch the first KCD in El Salvador
-- 📚 **[Fundación Hispana de Cloud Native](https://www.cuemby.com/fhcn/cnhf)** — promoting cloud-native education in Spanish-speaking communities
+- 📚 **[Fundación Hispana de Cloud Native](https://community.cncf.io/cloud-native-latin-america/)** — promoting cloud-native education in Spanish-speaking communities
 - 💳 **[Rise Up! Fintech](https://www.cuemby.com/rise-up-fintech)** — fintech community initiative
 
 ---
