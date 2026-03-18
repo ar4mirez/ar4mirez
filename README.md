@@ -26,7 +26,7 @@ I'm a technology leader and entrepreneur at the intersection of **technical exce
 - 🌐 **CNCF Ambassador** & **TODO OSPO Ambassador** — building cloud-native communities across Latin America
 - 🏆 **Kubestronaut** — one of ~1,500 globally (CKA + CKAD + CKS + KCNA + KCSA)
 - 🎤 **International Speaker** — KubeCon, KCD Texas, KCD El Salvador, and more
-- 🌱 Founder of [Cloud Native Latin America](https://community.cncf.io/cloud-native-latin-america/) & [Fundación Hispana de Cloud Native](https://community.cncf.io/cloud-native-latin-america/)
+- 🌱 Founder of [Cloud Native Latin America](https://www.linkedin.com/company/fundacion-hispana-de-cloud-native) & [Fundación Hispana de Cloud Native](https://www.linkedin.com/company/fundacion-hispana-de-cloud-native)
 - 📍 Delray Beach, Florida
 
 ---
@@ -111,9 +111,9 @@ I speak about **Platform Engineering**, **Kubernetes**, **Cloud Native adoption*
 
 ## 🌎 Community Building
 
-- 🦙 **[Cloud Native Latin America](https://community.cncf.io/cloud-native-latin-america/)** — CNCF community group for LATAM
+- 🦙 **[Cloud Native Latin America](https://www.linkedin.com/company/fundacion-hispana-de-cloud-native)** — CNCF community group for LATAM
 - 🇸🇻 **[KCD El Salvador](https://community.cncf.io/events/details/cncf-kcd-el-salvador-presents-kcd-el-salvador-2023/)** — helped launch the first KCD in El Salvador
-- 📚 **[Fundación Hispana de Cloud Native](https://community.cncf.io/cloud-native-latin-america/)** — promoting cloud-native education in Spanish-speaking communities
+- 📚 **[Fundación Hispana de Cloud Native](https://www.linkedin.com/company/fundacion-hispana-de-cloud-native)** — promoting cloud-native education in Spanish-speaking communities
 - 💳 **[Rise Up! Fintech](https://www.cuemby.com/rise-up-fintech)** — fintech community initiative
 
 ---
